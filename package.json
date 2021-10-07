@@ -1,5 +1,6 @@
 {
   "name": "projectreduxtrivia",
+  "homepage": "https://armando771.github.io/ProjectTriviaRedux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +22,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "publicar": "npm run build && ./node_modules/.bin/gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

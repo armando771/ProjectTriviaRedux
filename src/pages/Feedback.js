@@ -33,7 +33,7 @@ class FeedBack extends React.Component {
 
   playAgain() {
     const { history } = this.props;
-    history.push('/');
+    history.push('/ProjectTriviaRedux');
   }
 
   feedBackMessage() {
