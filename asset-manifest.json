@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ProjectTriviaRedux/static/css/main.205d6812.chunk.css",
+    "main.js": "/ProjectTriviaRedux/static/js/main.c4a6ce77.chunk.js",
+    "main.js.map": "/ProjectTriviaRedux/static/js/main.c4a6ce77.chunk.js.map",
+    "runtime-main.js": "/ProjectTriviaRedux/static/js/runtime-main.a8fc86d7.js",
+    "runtime-main.js.map": "/ProjectTriviaRedux/static/js/runtime-main.a8fc86d7.js.map",
+    "static/js/2.3e5b39ac.chunk.js": "/ProjectTriviaRedux/static/js/2.3e5b39ac.chunk.js",
+    "static/js/2.3e5b39ac.chunk.js.map": "/ProjectTriviaRedux/static/js/2.3e5b39ac.chunk.js.map",
+    "index.html": "/ProjectTriviaRedux/index.html",
+    "static/css/main.205d6812.chunk.css.map": "/ProjectTriviaRedux/static/css/main.205d6812.chunk.css.map",
+    "static/js/2.3e5b39ac.chunk.js.LICENSE.txt": "/ProjectTriviaRedux/static/js/2.3e5b39ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8fc86d7.js",
+    "static/js/2.3e5b39ac.chunk.js",
+    "static/css/main.205d6812.chunk.css",
+    "static/js/main.c4a6ce77.chunk.js"
+  ]
+}
